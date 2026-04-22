@@ -71,12 +71,14 @@
 <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 
+<br>
+
 <a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
 </p>
----
+
 
 ## 💡 Fun Fact
 
