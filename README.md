@@ -12,11 +12,12 @@
 ## 👩‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate at **University of Kelaniya**
-- 💻 Passionate about **Full Stack Development**
+- 💻 Passionate about **Mern Full Stack Development**
 - 🚀 Interested in building **modern web applications**
 - 🌱 Currently learning **Cloud, DevOps & Backend Development**
 - 🎯 Goal: Become a **Skilled Full Stack Developer**
 - 🔧 Love solving real-world problems using technology
+
 
 ---
 
@@ -66,12 +67,15 @@
 
 <p align="left">
 
+<a href="https://github.com/Nnavodya" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+
 <a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
 </p>
-
 ---
 
 ## 💡 Fun Fact
