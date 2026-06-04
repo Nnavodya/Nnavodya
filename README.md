@@ -3,11 +3,15 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="center">
-🏫 University of Kelaniya • 🇱🇰 Sri Lanka
+🏫 University of Kelaniya &nbsp;•&nbsp; 🇱🇰 Sri Lanka
 </p>
 
 <p align="center">
-💻 MERN Stack Enthusiast | ☁️ Cloud & DevOps Learner | 🚀 Future Full Stack Developer
+💻 MERN Stack Enthusiast &nbsp;|&nbsp; ☁️ Cloud & DevOps Learner &nbsp;|&nbsp; 🚀 Future Full Stack Developer
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +24,12 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="./assets/profile.jpg" width="250" alt="Nethmi Rajapaksha"/>
+<img src="./assets/profile.jpg" width="250" style="border-radius: 50%;" alt="Nethmi Rajapaksha"/>
 
 </td>
-
 <td width="65%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
 
 </td>
 </tr>
@@ -57,19 +60,25 @@
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,mysql,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
 </p>
 
-### 🛠 Tools & Technologies
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
 </p>
 
 ---
@@ -104,51 +113,56 @@
 
 ### 🛒 Furniture E-Commerce Platform
 
-**Tech Stack**
-- React
-- Node.js
-- Express.js
-- MongoDB
+**Tech Stack:** React • Node.js • Express.js • MongoDB
 
-**Features**
-- Product Catalog
-- Shopping Cart
-- Order Management
-- Authentication & Authorization
+**Features:**
+- Product Catalog with Search & Filter
+- Shopping Cart & Checkout
+- Order Management System
+- Authentication & Authorization (JWT)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
+
+---
 
 ### 🎓 Student Management System
 
-**Tech Stack**
-- MERN Stack
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
 
-**Features**
-- CRUD Operations
+**Features:**
+- Full CRUD Operations
 - Student Records Management
-- Authentication
-- REST APIs
+- Role-based Authentication
+- RESTful APIs
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
+
+---
 
 ### 💰 Expense Tracker
 
-**Tech Stack**
-- MongoDB
-- Express.js
-- React
-- Node.js
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
-**Features**
-- Expense Tracking
-- Dashboard Analytics
-- Monthly Reports
+**Features:**
+- Expense Tracking & Categorization
+- Interactive Dashboard Analytics
+- Monthly Reports & Summaries
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
+
+---
 
 ### 🐾 Care4Pets
 
 **Software Engineering Group Project**
 
-**Features**
-- Requirements Engineering
-- UML Diagrams
-- System Design
-- Documentation
+**Highlights:**
+- Requirements Engineering & Use Cases
+- UML Diagrams (Class, Sequence, Activity)
+- System Design & Architecture
+- Full Project Documentation
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
 
 ---
 
@@ -157,7 +171,7 @@
 - ☁️ AWS Cloud Fundamentals
 - 🐳 Docker & Containerization
 - 🔄 CI/CD with GitHub Actions
-- ⚡ Backend Development with Node.js
+- ⚡ Advanced Backend Development with Node.js
 - 🏗 Microservices Architecture
 - ☸️ Kubernetes Basics
 
@@ -165,38 +179,33 @@
 
 ## 🎯 2026 Goals
 
-- ✅ Secure a Software Engineering Internship
-- ✅ Build Production-Level MERN Applications
-- ✅ Learn AWS & DevOps Practices
-- ✅ Contribute to Open Source Projects
-- ✅ Master Full Stack Development
-- ✅ Deploy Real-World Cloud Applications
+- 🔲 Secure a Software Engineering Internship
+- 🔲 Build & Deploy Production-Level MERN Applications
+- 🔲 Earn AWS Cloud Practitioner Certification
+- 🔲 Contribute to Open Source Projects
+- 🔲 Master Full Stack Development
+- 🔲 Deploy Real-World Cloud Applications
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Nnavodya">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
+  <a href="https://github.com/Nnavodya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 ## ✨ Fun Fact
 
-💡 I enjoy learning new technologies, building practical software solutions, and continuously improving my development skills.
+💡 I enjoy learning new technologies, building practical software solutions, and continuously improving my development skills. When I'm not coding, I'm probably exploring the latest trends in cloud computing!
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
-
+⭐ **Feel free to explore my repositories and give a star if you find something useful!**
