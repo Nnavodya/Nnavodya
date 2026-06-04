@@ -1,179 +1,194 @@
-<h1 align="center">Hi 👋, I'm Nethmi Rajapaksha</h1>
+<div align="center">
 
-<h3 align="center">Software Engineering Undergraduate</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Nethmi%20Rajapaksha&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Undergraduate%20%7C%20University%20of%20Kelaniya&descAlignY=58&descSize=18)
+
+</div>
 
 <p align="center">
-🏫 University of Kelaniya &nbsp;•&nbsp; 🇱🇰 Sri Lanka
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+👩‍💻;MERN+Stack+Developer+🚀;Cloud+%26+DevOps+Enthusiast+☁️;Open+Source+Contributor+🌟;Future+Full+Stack+Developer+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
-💻 MERN Stack Enthusiast &nbsp;|&nbsp; ☁️ Cloud & DevOps Learner &nbsp;|&nbsp; 🚀 Future Full Stack Developer
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nnavodya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nnavodya&label=Profile%20Views&color=a960ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="35%" align="center">
+<br/>
 
-<img src="./assets/profile.jpg" width="250" style="border-radius: 50%;" alt="Nethmi Rajapaksha"/>
+<table border="0" align="center">
+<tr>
+<td width="40%" align="center">
+
+<img src="./assets/profile.jpg" width="220" style="border-radius:50%; border: 4px solid #a960ff; box-shadow: 0 0 25px #a960ff, 0 0 50px #7928ca;" alt="Nethmi Rajapaksha"/>
+
+<br/><br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Nnavodya?label=Follow&style=social)](https://github.com/Nnavodya)
 
 </td>
-<td width="65%" align="center">
+<td width="60%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Coding Animation"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering Undergraduate at **University of Kelaniya**
-- 💻 Passionate about **MERN Full Stack Development**
-- 🚀 Interested in building scalable and modern web applications
-- 🌱 Currently learning **Cloud Computing, DevOps & Microservices**
-- 🎯 Goal: Become a **Skilled Full Stack Developer**
-- 🔧 Love solving real-world problems using technology
-- 📚 Always exploring new technologies and software engineering practices
+```javascript
+const nethmi = {
+  university : "University of Kelaniya 🇱🇰",
+  degree     : "Software Engineering Undergraduate",
+  focus      : ["MERN Stack", "Cloud Computing", "DevOps"],
+  learning   : ["AWS", "Docker", "Kubernetes", "Microservices"],
+  goal       : "Become a Skilled Full Stack Developer 🚀",
+  funFact    : "I debug with coffee ☕ and determination 💪"
+};
+```
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
-</p>
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Summary
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nnavodya&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nnavodya&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nnavodya&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nnavodya&theme=tokyonight" width="100%"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnavodya&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nnavodya&theme=tokyonight&utcOffset=5.5" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nnavodya&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nnavodya&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnavodya&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nnavodya&theme=tokyonight&utcOffset=5.5" width="48%"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nnavodya&theme=tokyo-night" />
-</p>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nnavodya&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🛒 Furniture E-Commerce Platform
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB
+Product catalog, shopping cart, order management & JWT authentication.
 
-**Features:**
-- Product Catalog with Search & Filter
-- Shopping Cart & Checkout
-- Order Management System
-- Authentication & Authorization (JWT)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
-
----
+</td>
+<td width="50%">
 
 ### 🎓 Student Management System
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
+Full CRUD, student records, role-based auth & REST APIs.
 
-**Features:**
-- Full CRUD Operations
-- Student Records Management
-- Role-based Authentication
-- RESTful APIs
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 💰 Expense Tracker
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**Tech Stack:** MongoDB • Express.js • React • Node.js
+Expense tracking, dashboard analytics & monthly reports.
 
-**Features:**
-- Expense Tracking & Categorization
-- Interactive Dashboard Analytics
-- Monthly Reports & Summaries
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
-
----
+</td>
+<td width="50%">
 
 ### 🐾 Care4Pets
+![UML](https://img.shields.io/badge/-UML-FF6C37?style=flat&logo=diagrams.net&logoColor=white)
+![Documentation](https://img.shields.io/badge/-Documentation-0078D4?style=flat&logo=readthedocs&logoColor=white)
 
-**Software Engineering Group Project**
+Requirements engineering, UML diagrams, system design & full documentation.
 
-**Highlights:**
-- Requirements Engineering & Use Cases
-- UML Diagrams (Class, Sequence, Activity)
-- System Design & Architecture
-- Full Project Documentation
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Nnavodya)
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 💡 Currently Learning
 
-- ☁️ AWS Cloud Fundamentals
-- 🐳 Docker & Containerization
-- 🔄 CI/CD with GitHub Actions
-- ⚡ Advanced Backend Development with Node.js
-- 🏗 Microservices Architecture
-- ☸️ Kubernetes Basics
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_%26_Containerization-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD_GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_Basics-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-A960FF?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+</div>
 
 ---
 
@@ -190,15 +205,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Nnavodya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-rajapaksha-465335359)
+
+</div>
 
 ---
 
@@ -207,5 +220,11 @@
 💡 I enjoy learning new technologies, building practical software solutions, and continuously improving my development skills. When I'm not coding, I'm probably exploring the latest trends in cloud computing!
 
 ---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+
+</div>
 
 ⭐ **Feel free to explore my repositories and give a star if you find something useful!**
