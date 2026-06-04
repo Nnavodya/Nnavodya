@@ -45,8 +45,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nnavodya&show_icons=true&theme=tokyonight" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nnavodya&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nnavodya&theme=tokyonight" />
 
 </p>
