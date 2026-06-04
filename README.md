@@ -1,27 +1,36 @@
 <h1 align="center">Hi 👋, I'm Nethmi Rajapaksha</h1>
 
-<p align="center">
-  <img src="./assets/profile.jpg" width="220" alt="Nethmi Rajapaksha" />
-</p>
+<h3 align="center">Software Engineering Undergraduate</h3>
 
-<h3 align="center">
-🎓 Software Engineering Undergraduate <br>
-🏫 University of Kelaniya, Sri Lanka
-</h3>
+<p align="center">
+🏫 University of Kelaniya • 🇱🇰 Sri Lanka
+</p>
 
 <p align="center">
 💻 MERN Stack Enthusiast | ☁️ Cloud & DevOps Learner | 🚀 Future Full Stack Developer
 </p>
 
 <p align="center">
-<a href="https://github.com/Nnavodya">
-<img src="https://img.shields.io/badge/GitHub-Nnavodya-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359">
-<img src="https://img.shields.io/badge/LinkedIn-Nethmi%20Rajapaksha-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Nnavodya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="./assets/profile.jpg" width="250" alt="Nethmi Rajapaksha"/>
+
+</td>
+
+<td width="65%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -94,26 +103,52 @@
 ## 🚀 Featured Projects
 
 ### 🛒 Furniture E-Commerce Platform
-- MERN Stack Application
-- Product Catalog Management
-- Shopping Cart & Order Processing
-- Responsive User Interface
+
+**Tech Stack**
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+**Features**
+- Product Catalog
+- Shopping Cart
+- Order Management
+- Authentication & Authorization
 
 ### 🎓 Student Management System
-- Full CRUD Operations
-- Authentication & Authorization
-- MongoDB Database Integration
-- REST API Development
+
+**Tech Stack**
+- MERN Stack
+
+**Features**
+- CRUD Operations
+- Student Records Management
+- Authentication
+- REST APIs
 
 ### 💰 Expense Tracker
-- Personal Finance Management
-- Expense Analytics Dashboard
-- MERN Stack Architecture
+
+**Tech Stack**
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+**Features**
+- Expense Tracking
+- Dashboard Analytics
+- Monthly Reports
 
 ### 🐾 Care4Pets
-- Software Engineering Group Project
-- System Analysis & Design
-- UML Diagrams & Documentation
+
+**Software Engineering Group Project**
+
+**Features**
+- Requirements Engineering
+- UML Diagrams
+- System Design
+- Documentation
 
 ---
 
@@ -141,14 +176,16 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/Nnavodya" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+<a href="https://github.com/Nnavodya">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nethmi-rajapaksha-465335359">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 
 </p>
