@@ -127,11 +127,9 @@
 
 ## 🟩 GitHub Contribution Calendar
 
-<div align="center">
-
-<img src="https://ssr-contributions-svg.vercel.app/_/Nnavodya?chart=calendar&weeks=40&theme=dark_green&format=svg&flatten=1" alt="Nethmi's GitHub Contribution Calendar" width="100%"/>
-
-</div>
+<p align="center">
+<img src="https://ghchart.rshah.org/Nnavodya" alt="GitHub Contribution Chart" />
+</p>
 
 ---
 
