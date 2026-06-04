@@ -127,9 +127,11 @@
 
 ## 🟩 GitHub Contribution Calendar
 
-<p align="center">
-<img src="https://ghchart.rshah.org/Nnavodya" alt="GitHub Contribution Chart" />
-</p>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/Nnavodya" alt="Nethmi's GitHub Contribution Calendar" />
+
+</div>
 
 ---
 
