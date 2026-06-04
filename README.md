@@ -41,16 +41,25 @@
 
 ## 👩‍💻 About Me
 
-```javascript
-const nethmi = {
-  university : "University of Kelaniya 🇱🇰",
-  degree     : "Software Engineering Undergraduate",
-  focus      : ["MERN Stack", "Cloud Computing", "DevOps"],
-  learning   : ["AWS", "Docker", "Kubernetes", "Microservices"],
-  goal       : "Become a Skilled Full Stack Developer 🚀",
-  funFact    : "I debug with coffee ☕ and determination 💪"
-};
-```
+<br/>
+
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;**University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Kelaniya, Sri Lanka 🇱🇰
+
+&nbsp;&nbsp;&nbsp;📚 &nbsp;**Degree** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineering Undergraduate
+
+&nbsp;&nbsp;&nbsp;💻 &nbsp;**Passionate About** &nbsp; MERN Full Stack Development
+
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;**Currently Learning** &nbsp;Cloud Computing, DevOps & Microservices
+
+&nbsp;&nbsp;&nbsp;🎯 &nbsp;**Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Become a Skilled Full Stack Developer
+
+&nbsp;&nbsp;&nbsp;🔧 &nbsp;**Loves** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solving real-world problems with technology
+
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;**Always** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploring new technologies & best practices
+
+&nbsp;&nbsp;&nbsp;☕ &nbsp;**Fun Fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I debug with coffee and determination 💪
+
+<br/>
 
 ---
 
