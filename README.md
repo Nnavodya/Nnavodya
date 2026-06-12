@@ -10,30 +10,19 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nnavodya&label=Profile%20Views&color=a960ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nnavodya">
+    <img src="https://img.shields.io/github/followers/Nnavodya?label=Follow&style=for-the-badge&color=a960ff" alt="GitHub followers"/>
+  </a>
 </p>
 
 ---
 
 <br/>
 
-<table border="0" align="center">
-<tr>
-<td width="40%" align="center">
-
-<img src="./assets/profile.jpg" width="220" style="border-radius:50%; border: 4px solid #a960ff; box-shadow: 0 0 25px #a960ff, 0 0 50px #7928ca;" alt="Nethmi Rajapaksha"/>
-
-<br/><br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Nnavodya?label=Follow&style=social)](https://github.com/Nnavodya)
-
-</td>
-<td width="60%" align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="Coding Animation"/>
+</div>
 
 <br/>
 
@@ -47,7 +36,7 @@
 
 &nbsp;&nbsp;&nbsp;📚 &nbsp;**Degree** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineering Undergraduate
 
-&nbsp;&nbsp;&nbsp;💻 &nbsp;**Passionate About** &nbsp; MERN Full Stack Development
+&nbsp;&nbsp;&nbsp;💻 &nbsp;**Passionate About** &nbsp; MERN Full Stack Development & Mobile Apps
 
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;**Currently Learning** &nbsp;Cloud Computing, DevOps & Microservices
 
@@ -67,7 +56,14 @@
 
 ### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+### Mobile
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" />
+&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+&nbsp;<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ### Backend
@@ -77,7 +73,7 @@
 
 ### Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
 ### Cloud & DevOps
@@ -118,12 +114,37 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
+<tr>
+<td width="50%">
+
+### 🏔️ LankaTrails
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+Mobile app for exploring Sri Lanka's trails & attractions. Features category filtering, favorites, GPS-based search & detailed attraction views.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/LankaTrails)
+
+</td>
+<td width="50%">
+
+### 🍽️ BK Restaurant Management System
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+Multi-branch POS, real-time KDS, delivery tracking with GPS, inventory management & analytics dashboard for 3 branches.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/bk-restaurant)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -134,7 +155,7 @@
 
 Product catalog, shopping cart, order management & JWT authentication.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/furniture-ecommerce)
 
 </td>
 <td width="50%">
@@ -146,7 +167,7 @@ Product catalog, shopping cart, order management & JWT authentication.
 
 Full CRUD, student records, role-based auth & REST APIs.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/student-management)
 
 </td>
 </tr>
@@ -160,7 +181,7 @@ Full CRUD, student records, role-based auth & REST APIs.
 
 Expense tracking, dashboard analytics & monthly reports.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/expense-tracker)
 
 </td>
 <td width="50%">
@@ -171,7 +192,7 @@ Expense tracking, dashboard analytics & monthly reports.
 
 Requirements engineering, UML diagrams, system design & full documentation.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nnavodya/care4pets)
 
 </td>
 </tr>
