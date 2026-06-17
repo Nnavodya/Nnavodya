@@ -103,6 +103,16 @@
 </div>
 
 ---
+## 🏆 Microsoft Learn Achievements
+
+| Badge | Achievement |
+|--------|-------------|
+| 🥇 | Introduction to GitHub |
+| 🥇 | Manage repository changes by using pull requests on GitHub |
+| 🥇 | Introduction to GitHub administration |
+| 🥇 | Introduction to GitHub's products |
+
+---
 
 ## 📈 Contribution Graph
 
