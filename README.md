@@ -103,14 +103,24 @@
 </div>
 
 ---
+---
+
 ## 🏆 Microsoft Learn Achievements
 
-| Badge | Achievement |
-|--------|-------------|
-| 🥇 | Introduction to GitHub |
-| 🥇 | Manage repository changes by using pull requests on GitHub |
-| 🥇 | Introduction to GitHub administration |
-| 🥇 | Introduction to GitHub's products |
+<div align="center">
+
+| Badge | Achievement | Status |
+|--------|------------|---------|
+| 🥇 | Introduction to GitHub | ✅ Completed |
+| 🥇 | Manage Repository Changes by Using Pull Requests on GitHub | ✅ Completed |
+| 🥇 | Introduction to GitHub Administration | ✅ Completed |
+| 🥇 | Introduction to GitHub's Products | ✅ Completed |
+
+</div>
+
+<p align="center">
+  📚 Continuous Learning through Microsoft Learn Platform
+</p>
 
 ---
 
