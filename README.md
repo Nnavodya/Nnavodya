@@ -1,9 +1,10 @@
 # Hi, I'm Nethmi Rajapaksha 👋
 
-### Software Engineering Undergraduate | MERN Stack Developer | Cloud & DevOps Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</p>
 
-I'm a Software Engineering undergraduate at the University of Kelaniya with a passion for building scalable web applications, mobile applications, and cloud-based solutions. I enjoy transforming ideas into practical software products while continuously learning modern technologies and best practices.
-
+I'm a Software Engineering undergraduate at the University of Kelaniya with a passion for building scalable web applications, mobile applications, and cloud-based solutions.
 ---
 
 ## 👩‍💻 About Me
